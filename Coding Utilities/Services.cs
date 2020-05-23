@@ -6,11 +6,14 @@ using UnityEngine;
 /// <summary>
 /// Stores static references to many commonly used scripts and systems in a game.
 /// </summary>
+/// 
+
+//comments by Carsen Decker
 public static class Services
 {
 	//Yes, this is empty, but it is hella useful and I don't see many people using a Services manager.
 	//This class is where you put references to scripts that you want to be able to easily access from anywhere in your game.
-	//It gets rid of using Singletons (which are gross imo), and you can easily add and keep track of what scripts are "global"
+	//It gets rid of using Singletons (which are gross imo), and you can easily add and keep track of what scripts are "Global"
 
 	//Examples:
 	public static GameManager Game;
