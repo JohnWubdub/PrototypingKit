@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//script by Aaron Freedman
+//edits by John Wanamaker
 [RequireComponent(typeof (Rigidbody2D))]
 public class PhysicsJump2D : MonoBehaviour //simple physics jump, call it in update yourself, then reset it when you want it to be null again
 {

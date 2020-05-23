@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//script by John Wanamaker
 public class TypingEffect : MonoBehaviour 
 {
     //attach to textbox and hook it up,

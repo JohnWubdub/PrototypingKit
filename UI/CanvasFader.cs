@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//script by John Wanamaker
 public class CanvasFader : MonoBehaviour 
 {
     //add it to your canvas element,

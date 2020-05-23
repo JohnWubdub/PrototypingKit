@@ -1,11 +1,14 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
+//script by Aaron Freedman
+//edits by John Wanamaker
 public class QuadTree 
 {
     //ever heard of node tree? 
     //yeah it's that
-    
+
     private const int MaxObjects = 32;
     private const int MaxLevels = 4;
     private readonly int _level;

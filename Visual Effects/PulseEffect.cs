@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PulseEffect : MonoBehaviour //pulse effect on the color and size of an object
+//script by Aaron Freedman
+//edits by John Wanamaker
+public class PulseEffect : MonoBehaviour 
 {
+    //pulse effect on the color(material) and size of an object
+
     public float pulsePeriod;
     public float sizeMultiplier;
     public float gravity;
