@@ -1,0 +1,34 @@
+What is Post Processing?
+It's an easy way to add visual polish to your game. Think of it like a filter for your camera! 
+
+How do I obtain this power?
+Follow these steps once your scene is ready!
+
+1. Import the post processing package by going to your package manager
+
+2. Create an empty game object, this will be where our post processing effects are housed
+
+3. Add a "Post-process Volume" component onto the empty game object and create a new Profile
+
+4. Create a layer for the post processing effects to reside on and assign the object to this layer
+
+Now you should have an object on the newly created post-processing layer that has Post-process Volume component with new profile
+
+5. Add a Grain effect by clicking the "Add effect..." button on the bottom of the volume component
+
+6. Click the drop down tab and check the boxes of the effect so it's now active
+
+7. Select the camera you want the post processing effect to appear on and add the "Post-process Layer" component
+
+8. Change the layer to be the post processing layer you made in step 4
+
+Congratualtions! You should be able to see your post processing effect!
+
+9. Now play around with all the effects for like 2 hours! (You can add more effects by making your own or finding them online.)
+
+10. Go outside, nerd.
+
+
+
+
+
