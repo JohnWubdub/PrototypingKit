@@ -3,3 +3,5 @@
 -Add the "Binary" script to your camera
 
 -Dither Time
+
+Does not work with new render pipelines
