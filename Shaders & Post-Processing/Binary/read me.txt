@@ -1,7 +1,0 @@
--Manually add the package to your Unity project in your Package Manager window
-
--Add the "Binary" script to your camera
-
--Dither Time
-
-Does not work with new render pipelines
