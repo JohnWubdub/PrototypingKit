@@ -1,5 +1,4 @@
-﻿// ScrollTexture.cs
-// Last edited 11:02 AM 06/03/2015 by Aaron Freedman
+﻿
 
 using UnityEngine;
 

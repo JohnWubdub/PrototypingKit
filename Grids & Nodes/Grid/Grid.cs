@@ -1,5 +1,4 @@
-﻿// Grid.cs
-// Last edited 4:50 PM 05/16/2015 by Aaron Freedman
+﻿
 
 using System;
 using UnityEngine;

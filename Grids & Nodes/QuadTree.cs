@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//script by Aaron Freedman
-//edits by John Wanamaker
 public class QuadTree 
 {
     //ever heard of node tree? 

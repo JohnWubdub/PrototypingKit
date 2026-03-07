@@ -1,5 +1,4 @@
-﻿// GridNode.cs
-// Last edited 7:43 PM 04/15/2015 by Aaron Freedman
+﻿
 
 using System.Collections.Generic;
 using System.Linq;

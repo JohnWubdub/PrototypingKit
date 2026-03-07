@@ -1,5 +1,4 @@
-﻿// CustomTexTest.cs
-// Last edited 9:17 PM 06/02/2015 by Aaron Freedman
+﻿
 
 using UnityEngine;
 

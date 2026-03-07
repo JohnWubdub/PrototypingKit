@@ -1,5 +1,4 @@
-﻿// GetTexelColor.cs
-// Last edited 11:18 AM 06/04/2015 by Aaron Freedman
+﻿
 
 using UnityEngine;
 

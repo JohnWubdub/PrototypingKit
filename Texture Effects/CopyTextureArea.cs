@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//script by Aaron Freedman
 public class CopyTextureArea : MonoBehaviour
 {
     public bool bilinear;
